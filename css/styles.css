@@ -1,0 +1,61 @@
+body {
+    color: antiquewhite;
+}
+
+.promo {
+    height: 30px;
+}
+
+section {
+    color: gray;
+}
+
+.nav-bg {
+    background-color: #282828;
+}
+
+.social img {
+    height: 20px;
+    margin: 0 10px;
+}
+
+header a {
+    color: gray;
+    border-bottom: 1px solid transparent;
+    transition: all .5s;
+}
+
+header a:hover {
+    text-decoration: none;
+    color: black;
+    border-color: black;
+}
+
+.pages {
+    font-size: 14px;
+}
+
+.pages span {
+    margin: 0 10px;
+}
+
+.center-logo img {
+    height: 60px;
+}
+
+.products img {
+    height: 500px;
+    width: 300px;
+}
+
+.products-1st-row {
+    margin-bottom: 30px;
+}
+
+.products-2nd-row {
+    margin-bottom: 30px;
+}
+
+.products-3rd-row {
+    margin-bottom: 30px;
+}
